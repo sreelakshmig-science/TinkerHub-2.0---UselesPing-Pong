@@ -1,29 +1,22 @@
 # TinkerHub-2.0---UselesPing-Pong
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
-# [Project Name] 🎯
-## Basic Details
-### Team Name: [Name]
+# [Ping-Pong] 🎯
+## A Multiplayer Game for you to have fun with!!
+### Team Name: [CodeMech]
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Aswin Joseph] - [College of Engineering and Management Punnapra]
+- Member 2: [Sreelakshmi G] - [College of Engineering and Management Punnapra]
 ### Project Description
-[2-3 lines about what your project does]
+[A Ping Pong game where the ball represents different traits of human being. Once you managed to take the ball to score now you have to prove that the trait you have scored is either in you or not by arguing or discussing with your team mate.]
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Just to prove how good or not you are. In other way you can make your friend realize really what he/she is meant for you as a person by analyzing the charcters.]
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[In the discussion or argument you are going to havv ewith your shows the first quality, if you make it a argument to prove then it shows your ego but if you managed to make it inot a discussion then it potraits your dignity. This game is good to realize what other are have in them about you. As it is a game after a point the true thoughts will come.]
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [HTML,CSS and Javascript]]
+
 ### Implementation
 For Software:
 # Installation
