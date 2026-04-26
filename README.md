@@ -7,7 +7,7 @@
 - Team Lead: [Aswin Joseph] - [College of Engineering and Management Punnapra]
 - Member 2: [Sreelakshmi G] - [College of Engineering and Management Punnapra]
 ### Project Description
-[A Ping Pong game is where the ball represents different traits of human being. Once you managed to take the ball to score now you have to prove that the trait you have scored is either in you or not by arguing or discussing with your team mate.]
+[A Ping Pong game is a where the ball represents different traits of human being. Once you managed to take the ball to score now you have to prove that the trait you have scored is either in you or not by arguing or discussing with your team mate.]
 ### The Problem (that doesn't exist)
 [Just to prove how good or not you are. In other way you can make your friend realize really what he/she is meant for you as a person by analyzing the charcters.]
 ### The Solution (that nobody asked for)
